@@ -1,5 +1,11 @@
-<a name="PORTFOLIO-BOOTSTRAP"></a>
+<a name="readme-top"></a>
 
+<div align="center">
+  
+
+  <h3><b>PORTFOLIO-BOOTSTRAP</b></h3>
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -187,7 +193,8 @@ I would like to thank Microverse team for the immense support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([https://github.com/Isaac-ej/bootstrap/blob/Bootstrap/LICENSE] licensed.
+This project is [MIT](https://github.com/Isaac-ej/bootstrap/blob/Bootstrap/LICENSE) licensed.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
