@@ -187,7 +187,7 @@ I would like to thank Microverse team for the immense support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Cheptoo21/Portfolio-setup-and-mobile-first/blob/deployment/LICENSE) licensed.
+This project is [MIT]([https://github.com/Isaac-ej/bootstrap/blob/Bootstrap/LICENSE] licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
